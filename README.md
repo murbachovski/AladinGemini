@@ -32,12 +32,10 @@ pip install -r requirements.txt
 
 # 웹 구성
 <p align="center">
-  <img src="" width="700">
-  <img src="" width="700">
-  <img src="" width="700">
-  <img src="" width="700">
-  <img src="" width="700">
-  <img src="" width="700">
+  <img src="https://github.com/user-attachments/assets/c4afad51-218e-4db7-b2c4-4664bd57650a" width="700">
+  <img src="https://github.com/user-attachments/assets/619d516b-0975-420a-b58e-95937cbf9ee8" width="700">
+  <img src="https://github.com/user-attachments/assets/6bd9063e-f828-4b85-b074-5f772efc9c6c" width="700">
+  <img src="https://github.com/user-attachments/assets/000f7de5-8ece-4092-ad89-b4da0d210df2" width="700">
 </p>
 
 # Ngrok
