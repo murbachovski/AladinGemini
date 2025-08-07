@@ -74,4 +74,4 @@ pip install pipreqs
 
 # 알라딘 OpenAPI 참고 문서
 [알라딘 OpenAPI 안내](https://blog.aladin.co.kr/openapi/popup/6695306)<br>
-[알라딘 Open API 매뉴얼](https://docs.google.com/document/d/1mX-WxuoGs8Hy-QalhHcvuV17n50uGI2Sg_GHofgiePE/edit?tab=t.0#heading=h.npqn2iowpse8)<br>
+[알라딘 OpenAPI 매뉴얼](https://docs.google.com/document/d/1mX-WxuoGs8Hy-QalhHcvuV17n50uGI2Sg_GHofgiePE/edit?tab=t.0#heading=h.npqn2iowpse8)<br>
