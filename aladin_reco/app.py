@@ -50,7 +50,7 @@ CONFIG = {
         "lookup_url": "http://www.aladin.co.kr/ttb/api/ItemLookUp.aspx",
     },
     "gemini": {
-        "model": "gemini-1.5-flash",
+        "model": "gemini-2.0-flash",
         "prompt": """당신은 사용자의 상황과 감정을 깊이 이해하고 공감해주는 전문 북 큐레이터입니다.
 사용자의 요청: "{user_query}"
 
